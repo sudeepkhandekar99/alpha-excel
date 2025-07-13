@@ -1,1 +1,1 @@
-Project Initialized
+This is just a FastAPI playground
